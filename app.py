@@ -74,7 +74,7 @@ if "history" not in st.session_state:
 # ── LANGUAGES ──────────────────────────────────────────
 LANGUAGES = {
     "English": "en", "French": "fr", "Spanish": "es",
-    "German": "de", "Italian": "it", "Hebrew": "he", "Chinese": "zh",
+    "German": "de", "Italian": "it", "Hausa": "ha", "Yoruba": "yo",
     "Japanese": "ja", "Korean": "ko", "Russian": "ru",
     "Portuguese": "pt", "Arabic": "ar", "Hindi": "hi"
 }
